@@ -17,7 +17,7 @@ JavaScript, Django, frontend frameworks, designing mobile-first experiences, or 
 
 ### 📫 How to Reach Me
 
-- Email: [adheesh.verma@example.com](mailto:adheeshzkp@gmail.com)
+- Email: [adheeshzkp@gmail.com](mailto:adheeshzkp@gmail.com)
 - LinkedIn: [Adheesh Verma](https://www.linkedin.com/in/adheesh-verma-177538324/)
 
 # Hi there, I'm Adheesh Verma 👋
