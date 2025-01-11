@@ -39,8 +39,8 @@ JavaScript, Django, frontend frameworks, designing mobile-first experiences, or 
 ### 🏆 GitHub Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)-->
 
-### 🔥 Top Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adheesh0807&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!--### 🔥 Top Languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adheesh0807&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
 Feel free to explore my repositories and reach out if you'd like to collaborate on something exciting!
